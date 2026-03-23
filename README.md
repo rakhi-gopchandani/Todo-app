@@ -25,3 +25,7 @@ A simple and responsive Todo App built using HTML, CSS, and JavaScript.
 
 ## 👩‍💻 Author
 Rakhi Gopchandani
+
+## 🌐 Live Demo
+(https://rakhi-gopchandani.github.io/Todo-app/)
+
